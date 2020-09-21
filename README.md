@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 At **Sharing Economy Pakistan** we identify shared problems, build basis for awareness and cooperation using Internet.
+
+![karela](bittergourd.jpg)
